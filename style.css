@@ -1,0 +1,22 @@
+table {
+    border: 4px dotted orange;
+    border-collapse: collapse;
+}
+
+th {
+    border: 4px dotted orange;    
+}
+
+td {
+    border: 4px dotted orange;
+}
+
+href {
+    display: block;
+}
+
+.info {
+    margin: 0px auto 0px auto;
+    max-width: 1100px;
+}
+
